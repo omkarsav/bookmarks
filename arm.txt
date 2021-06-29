@@ -1,0 +1,13 @@
+* General:
+  =======
+	https://www.arm.linux.org.uk/
+
+* ATF design:
+  ==========
+	https://chromium.googlesource.com/chromiumos/third_party/arm-trusted-firmware/+/factory-strago-7458.B/docs/firmware-design.md
+
+* PSCI:
+  ====
+  	https://chromium.googlesource.com/external/github.com/ARM-software/arm-trusted-firmware/+/v1.4-rc0/docs/psci-lib-integration-guide.md
+
+
